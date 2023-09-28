@@ -1,0 +1,12 @@
+{
+  "name": "manage-tasklists",
+  "version": "1.0.0",
+  "description": "Github Action to manage and check task lists in issues and prs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
